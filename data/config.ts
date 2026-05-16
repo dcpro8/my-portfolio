@@ -55,7 +55,7 @@ export const PROJECTS: Project[] = [
     description: "AI-powered product builder that transforms raw ideas into structured engineering blueprints. Enforces strict JSON output across features, database design, APIs, UI structure, and roadmap generation. Designed for rapid ideation, consistency, and secure AI integration using a production-ready backend.",
     technicalData: ["REACT", "TYPESCRIPT", "NODE.JS", "EXPRESS", "MONGODB", "AI API"],
     coordinates: [-2, -2, -45],
-    liveUrl: "https://neuroforge-frontend-319apyxh9-dcpro8s-projects.vercel.app",
+    liveUrl: "https://neuroforge-frontend-ruby.vercel.app",
     githubUrl: "https://github.com/dcpro8/neuroforge-backend"
   },
   {
@@ -64,7 +64,7 @@ export const PROJECTS: Project[] = [
     category: "COMMUNICATION PROTOCOL",
     description: "Available for collaboration, system design, and AI product development.\n\nEmail: autopilotlabs369@gmail.com\nGitHub: github.com/dcpro8\nLinkedIn: linkedin.com/in/dhruv-chauhan",
     githubProfileUrl: "https://github.com/dcpro8",
-    linkedInProfileUrl: "https://linkedin.com/in/dhruv-chauhan",
+    linkedInProfileUrl: "https://linkedin.com/in/dhruv-v-chauhan",
     coordinates: [0, 0, -65]
   }
 ];
